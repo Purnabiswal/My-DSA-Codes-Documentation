@@ -21,9 +21,9 @@ This repository contains all my Java implementations of Data Structures and Algo
 - [x] Trees
 - [x] Sorting Algorithms
 - [x] Advanced Sorting Algorithms
-- [x] Top 150 LeetCode Problems
-- [x] Miscellaneous Problems
-- [x] Strivers A2Z Sheet
+- [x] Top 150 LeetCode Problems (ongoing 🚀)
+- [x] Miscellaneous Problems 
+- [x] Strivers A2Z Sheet (ongoing 🚀)
 - [ ] Dynamic Programming (ongoing 🚀)
 - [ ] Graphs (coming soon 🔜)
 
