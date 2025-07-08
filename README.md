@@ -57,7 +57,7 @@ src/
 ├── out/                    # Build folder (ignore)
 └── DSA in Java.iml         # IntelliJ project file
 
-
+```
 
 
 Each folder contains:
@@ -71,6 +71,7 @@ Each folder contains:
 - 💼 GitHub: [Purnabiswal](https://github.com/Purnabiswal)
 - ✉️ Email: [purnabiswal824@gmail.com](mailto:purnabiswal824@gmail.com)
 - 🎯 LeetCode: [Purnabiswal](https://leetcode.com/u/Purnabiswal/)
+- 🧠 Coding Ninjas: [Code360 Profile](https://www.naukri.com/code360/profile/purnabiswal824)
 
 ---
 
