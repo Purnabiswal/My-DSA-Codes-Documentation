@@ -33,7 +33,7 @@ Each folder contains:
 
 - 💼 GitHub: [Purnabiswal](https://github.com/Purnabiswal)
 - ✉️ Email: purnabiswal824@gmail.com
-- 🎯 LeetCode: [PurnaBiswal](leetcode.com/Purnabiswal)
+- 🎯 LeetCode: [leetcode.com/Purnabiswal](https://leetcode.com/)
 
 
 
