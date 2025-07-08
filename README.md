@@ -68,9 +68,9 @@ Each folder contains:
 
 ## 📫 Connect with me
 
-- 💼 GitHub: [Purnabiswal](https://github.com/Purnabiswal)  
-- ✉️ Email: [purnabiswal824@gmail.com](mailto:purnabiswal824@gmail.com)  
-- 🎯 LeetCode: [leetcode.com/u/Purnabiswal](https://leetcode.com/u/Purnabiswal/)  
+- 💼 GitHub: [Purnabiswal](https://github.com/Purnabiswal)
+- ✉️ Email: [purnabiswal824@gmail.com](mailto:purnabiswal824@gmail.com)
+- 🎯 LeetCode: [Purnabiswal](https://leetcode.com/u/Purnabiswal/)
 
 ---
 
@@ -85,6 +85,3 @@ Each folder contains:
 ### 🏷️ Badge
 
 ![LeetCode Problems Solved](https://img.shields.io/badge/LeetCode-90%2B-blue?style=flat&logo=leetcode)
-### 🧠 Coding Ninjas
-
-[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-Practice-orange?style=flat&logo=codingninjas)](https://www.naukri.com/code360/profile/Purnabiswal)  
