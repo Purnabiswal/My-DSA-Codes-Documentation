@@ -22,6 +22,7 @@ public class TP_16_LC_14_Longest_Common_Prefix {
             }
             ans.append(ch);
         }
+
         return ans.toString();
     }
 
