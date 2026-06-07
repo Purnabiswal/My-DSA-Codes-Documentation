@@ -1,4 +1,4 @@
-package src.Greedy;
+package src.T_21_Greedy;
 
 
 import java.util.HashMap;
@@ -11,7 +11,7 @@ public class HuffmanCoder {
     HashMap<Character, String> encoder;
     HashMap<String, Character> decoder;
 
-    public class Node implements Comparable<Node> {
+    public static class Node implements Comparable<Node> {
         Character data;
         int cost; //frequency
         Node left;
@@ -60,7 +60,7 @@ public class HuffmanCoder {
             Node first=minheap.remove();
             Node second=minheap.remove();
             //combine them in a new node
-            Node newNode=new Node('\0', first.cost+second.cost);
+            Node newNode= new Node('\0', first.cost + second.cost);
             newNode.left=first;
             newNode.right=second;
             //add the new node to min heap

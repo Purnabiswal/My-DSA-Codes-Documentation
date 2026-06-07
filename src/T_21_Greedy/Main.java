@@ -1,4 +1,4 @@
-package src.Greedy;
+package src.T_21_Greedy;
 
 public class Main {
     public static void main(String[] args) throws Exception {
