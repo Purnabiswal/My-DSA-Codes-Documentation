@@ -11,6 +11,7 @@ public class TP_18_LC_6_ZigzagConversion {
     }
 
 
+    //Optimized solution
     static public String convert(String s, int numRows) {
         char[] chars=s.toCharArray();
         int len= chars.length;
