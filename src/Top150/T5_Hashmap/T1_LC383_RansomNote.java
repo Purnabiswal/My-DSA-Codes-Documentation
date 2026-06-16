@@ -9,6 +9,9 @@ public class T1_LC383_RansomNote {
 //        String ransomNote = "aa", magazine = "aab";
         String ransomNote = "aa", magazine = "ab";
         System.out.println(canConstruct(ransomNote, magazine));
+        System.out.println(canConstruct2(ransomNote, magazine));
+        System.out.println(canConstruct3(ransomNote, magazine));
+        System.out.println(canConstruct4(ransomNote, magazine));
 
     }
 
@@ -27,6 +30,36 @@ public class T1_LC383_RansomNote {
         }
 
         return true;
+    }
+
+    //Efficient: Using Hashmap
+    public static boolean canConstruct3(String ransomNote, String magazine) {
+        if (ransomNote.length() > magazine.length()) {
+            return false;
+        }
+
+        HashMap<Character, Integer> need = new HashMap<>();
+
+        for (char c : ransomNote.toCharArray()) {
+            need.put(c, need.getOrDefault(c, 0) + 1);
+        }
+
+        int remaining = ransomNote.length();
+
+        for (char c : magazine.toCharArray()) {
+            Integer count = need.get(c);
+
+            if (count != null && count > 0) {
+                need.put(c, count - 1);
+                remaining--;
+
+                if (remaining == 0) {
+                    return true; // all characters found
+                }
+            }
+        }
+
+        return false;
     }
 
 
