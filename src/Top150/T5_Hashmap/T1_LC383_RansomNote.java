@@ -37,7 +37,7 @@ public class T1_LC383_RansomNote {
             map.put(aChar, map.getOrDefault(aChar, 0)+1);
         }
         for (int i = 0; i < ransomNote.length(); i++) {
-            char key=chars[i];
+            char key = chars[i];
             if (!map.containsKey(key)){
                 return false;
             }
