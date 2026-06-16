@@ -6,6 +6,7 @@ public class TP_22_LC_392_IsSubsequence {
 //        String s = "axc", t = "ahbgdc";
 
         System.out.println(isSubsequence(s,t));
+
         System.out.println(isSubsequence2(s,t));
     }
 
