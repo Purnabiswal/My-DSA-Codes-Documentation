@@ -21,7 +21,7 @@ public class Main {
         System.out.println(x==y); //"=="(it's a comparator) method checks if reference variable are pointing to same object
 
 
-        //How to create diff objects of sane value?
+        //How to create diff objects of same value?
         String p=new String("Purna");
         String q=new String("Purna");//creating the value outside the pool but in heap
 

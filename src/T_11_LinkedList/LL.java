@@ -211,7 +211,7 @@ public class LL {
         return node;
     }
 
-    //Asked in google, microsoft, apple, amazon
+    //Asked in Google, Microsoft, apple, amazon
     //In-place reversal of linked list. LC_206
     public void in_reverse(){
         if (head==null || head.next==null){

@@ -18,7 +18,7 @@ public class Methods6 {
 
         String fullName="Purna Chandra Biswal";
         System.out.println(Arrays.toString(fullName.split(" "))); //.split method splits the string into array of Strings
-        System.out.println(Arrays.toString(fullName.split("a"))); //It also removes the ragex(here 'a') from the string
+        System.out.println(Arrays.toString(fullName.split("a"))); //It also removes the regex(here 'a') from the string
         System.out.println(Arrays.toString(fullName.split("")));
 
         System.out.println(fullName); //Still there is no change in fullName, this proves strings are immutable

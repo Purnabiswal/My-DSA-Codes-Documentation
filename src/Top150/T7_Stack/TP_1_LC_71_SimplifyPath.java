@@ -1,5 +1,6 @@
 package src.Top150.T7_Stack;
 
+
 import java.util.Stack;
 
 public class TP_1_LC_71_SimplifyPath {
@@ -11,12 +12,16 @@ public class TP_1_LC_71_SimplifyPath {
 
         System.out.println(simplifyPath(path));
 
+
     }
 
 
     static public String simplifyPath(String path) {
         int n=path.length();
         Stack<String> stack=new Stack<>();
+
+        System.out.println();
+
         stack.push("/");
         for (int i = 1; i < n; i++) {
             if (path.charAt(i)=='/') continue;
