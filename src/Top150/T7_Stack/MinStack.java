@@ -1,19 +1,21 @@
 package src.Top150.T7_Stack;
 
+import java.util.Stack;
+
 class MinStack {
 
     int[] arr;
     int top;
-    int min;
     int size;
+    Stack<Integer> minStack;
 
     public MinStack() {
         arr=new int[10];
+        minStack = new Stack<>();
         top=-1;
-        min=top;
         size=0;
     }
-    
+
     public void push(int value) {
         if (size==arr.length){
             int[] temp=new int[arr.length*2];
@@ -23,29 +25,26 @@ class MinStack {
             arr=temp;
         }
         arr[top+1]=value;
+        minStack.push(Math.min(value,(minStack.isEmpty())?Integer.MAX_VALUE:minStack.peek()));
         top++;
         size++;
-        if (value>arr[min]) min=top;
     }
 
 
     public void pop() {
         if (size>0) top--;
         size--;
-        if (top+1==min){
+        minStack.pop();
+    }
 
-        }
-    }
-    
     public int top() {
-        
+        return arr[top];
     }
-    
+
     public int getMin() {
-        
+        return minStack.peek();
     }
 }
-
 /**
  * Your MinStack object will be instantiated and called as such:
  * MinStack obj = new MinStack();
