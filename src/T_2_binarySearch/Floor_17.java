@@ -13,7 +13,7 @@ public class Floor_17 {
     //return the index of greatest element <=target
     static int ceiling(int[] arr, int target){
         int start=0;
-        int end=arr.length;
+        int end=arr.length-1;
         //if (target<arr[0]) return -1; no need of this in case of floor
         while (start<=end){
             int mid=start+(end-start)/2;
