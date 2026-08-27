@@ -3,7 +3,7 @@ package src.T_18_DP.Day_1to3;
 import java.util.Arrays;
 
 //64. Minimum Path Sum. Medium
-public class MinPathSum_11 {
+public class T11_MinPathSum_11 {
     public static void main(String[] args) {
         int[][] grid = {
                 {1, 3, 1},

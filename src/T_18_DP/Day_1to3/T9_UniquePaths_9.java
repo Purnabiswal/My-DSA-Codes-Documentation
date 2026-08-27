@@ -6,7 +6,7 @@ import java.util.Arrays;
 //LC 62 - https://leetcode.com/problems/unique-paths/description/
 //Striver lecture-8 on DP
 //Another solution to this problem is: Combinatorics.
-public class UniquePaths_9 {
+public class T9_UniquePaths_9 {
     public static void main(String[] args) {
 
         int m=6;

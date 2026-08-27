@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 
 //63. Unique Paths II
-public class UniquePathsII_10 {
+public class T10_UniquePathsII_10 {
     public static void main(String[] args) {
         int[][] obstacleGrid = {
                 {0,0,0},

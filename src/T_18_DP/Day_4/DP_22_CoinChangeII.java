@@ -2,7 +2,7 @@ package src.T_18_DP.Day_4;
 
 import java.util.Arrays;
 
-public class DP22_CoinChangeII {
+public class DP_22_CoinChangeII {
     public static void main(String[] args) {
 
     }

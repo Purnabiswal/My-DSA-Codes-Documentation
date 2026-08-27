@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 
 //Ninja’s Training - https://www.naukri.com/code360/problems/ninja-s-training_3621003
-public class NinjaTraining_8 {
+public class T8_NinjaTraining_8 {
     public static void main(String[] args) {
         int[][] points={{11,26,4}, {3 ,7 ,1} ,{3,9,34}};
         System.out.println(ninjaTraining(points.length, points));

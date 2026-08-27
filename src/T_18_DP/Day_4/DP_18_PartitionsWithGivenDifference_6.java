@@ -5,7 +5,7 @@ import java.util.Arrays;
 //DP_18
 //Link:
 //Code360: https://www.naukri.com/code360/problems/partitions-with-given-difference_3751628
-public class DP18_PartitionsWithGivenDifference_6 {
+public class DP_18_PartitionsWithGivenDifference_6 {
     public static void main(String[] args) {
         int[] arr = {1,0,8,5,1,4};
         int d=17;

@@ -6,7 +6,7 @@ import java.util.Arrays;
 //LC 213
 
 //Pick it or not pick it approach (like subset/subsequence problems)
-public class HouseRobberPickNotPickWay_6 {
+public class T6_HouseRobberPickNotPickWay_6 {
     public static void main(String[] args) {
 
         int[] nums={1,2,3,1,6,8,7,6,6,6,9};

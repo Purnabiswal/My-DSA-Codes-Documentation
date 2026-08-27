@@ -6,7 +6,7 @@ package src.T_18_DP.Day_4;
 import java.util.Arrays;
 
 //322. Coin Change
-public class DP20_CoinChange {
+public class DP_20_CoinChange {
     public static void main(String[] args) {
         int[] coins = {1,2,5};
         int target = 11;

@@ -8,7 +8,7 @@ import java.util.Arrays;
 //DP_19
 //0 1 Knapsack
 
-public class DP19_The_01Knapsack {
+public class DP_19_The_01Knapsack {
     public static void main(String[] args) {
 
     }

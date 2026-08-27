@@ -7,7 +7,7 @@ package src.T_18_DP.Day_4;
 
 import java.util.Arrays;
 
-public class PartitionArrayIntoTwoArraysToMinimizeSumDifference_3 {
+public class DP_17_1_PartitionArrayIntoTwoArraysToMinimizeSumDifference_3 {
     public static void main(String[] args) {
         int[] arr={0,0,0,15};
 

@@ -8,7 +8,7 @@ import java.util.Arrays;
 //Code360: https://www.naukri.com/code360/problems/ninja-and-his-friends_3125885
 //Leetcode_1463: https://leetcode.com/problems/cherry-pickup-ii/description/
 
-public class NinjaAndHisFriends_14 {
+public class T14_NinjaAndHisFriends_14 {
     public static void main(String[] args) {
         int[][] matrix = {
                 {3,1,1,},

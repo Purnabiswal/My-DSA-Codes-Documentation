@@ -3,7 +3,7 @@ package src.T_18_DP.Day_1to3;
 import java.util.Arrays;
 
 //https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems
-public class Fibonacci_1 {
+public class T1_Fibonacci_1 {
     public static void main(String[] args) {
         System.out.println(fibo(2888));
         System.out.println(fibo(7));

@@ -3,7 +3,7 @@ package src.T_18_DP.Day_1to3;
 import java.util.Arrays;
 
 //frog can jump k steps
-public class FrogJumpKjump_4 {
+public class T4_FrogJumpKjump_4 {
     public static void main(String[] args) {
         int[] heights = {7, 5, 1,3,6,8,5,9};
         int k=2;

@@ -2,7 +2,7 @@ package src.T_18_DP.Day_1to3;
 
 import java.util.Arrays;
 
-public class ClimbingStairs_2 {
+public class T2_ClimbingStairs_2 {
     public static void main(String[] args) {
 
     }

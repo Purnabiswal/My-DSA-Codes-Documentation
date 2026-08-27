@@ -5,7 +5,7 @@ import java.util.Arrays;
 //Link
 //Coding Ninjas: https://www.naukri.com/code360/problems/number-of-subsets_3952532
 //DP_17
-public class findWays_4 {
+public class DP_17_2_findWays_4 {
     public static void main(String[] args) {
 
         int[] arr = {1,1,1,1,1};

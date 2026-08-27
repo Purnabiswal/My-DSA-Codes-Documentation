@@ -5,7 +5,7 @@ package src.T_18_DP.Day_4;
 
 import java.util.Arrays;
 
-public class SubsetSumEqualK_1 {
+public class DP_15_SubsetSumEqualK_1 {
     public static void main(String[] args) {
         int[] arr = {2,8,2,9,3};
 

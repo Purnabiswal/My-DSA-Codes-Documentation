@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 //Fibonacci approach
 //198. House Robber
-public class HouseRobber_5 {
+public class T5_HouseRobber_5 {
     public static void main(String[] args) {
 
         int[] nums={1,2,3,1};

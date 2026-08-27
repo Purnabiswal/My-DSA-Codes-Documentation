@@ -1,7 +1,7 @@
 package src.T_18_DP.Day_4;
 
 //416. Partition Equal Subset Sum
-public class PartitionEqualSubsetSum_2 {
+public class DP_16_PartitionEqualSubsetSum_2 {
     public static void main(String[] args) {
         int[] arr = {1,5,12,5};
         System.out.println(canPartition(arr));

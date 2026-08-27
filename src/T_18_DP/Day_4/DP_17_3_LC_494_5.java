@@ -3,7 +3,7 @@ package src.T_18_DP.Day_4;
 import java.util.HashMap;
 import java.util.Map;
 
-public class LC_494_5 {
+public class DP_17_3_LC_494_5 {
     public static void main(String[] args) {
         int[] arr={1,1,1,1,1};
         System.out.println(findTargetSumWays(arr, 3));

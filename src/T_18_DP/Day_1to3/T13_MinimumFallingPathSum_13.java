@@ -3,7 +3,7 @@ package src.T_18_DP.Day_1to3;
 import java.util.Arrays;
 
 //931. Minimum Falling Path Sum of N*N matrix. Medium
-public class MinimumFallingPathSum_13 {
+public class T13_MinimumFallingPathSum_13 {
     public static void main(String[] args) {
         int[][] matrix = {
                 {-19,57,35},

@@ -1,7 +1,7 @@
 package src.T_18_DP.Day_1to3;
 
 //Pick it or not pick it approach (like subset/subsequence problems)
-public class HouseRobberIIPickNotPickWay_7 {
+public class T7_HouseRobberIIPickNotPickWay_7 {
     public static void main(String[] args) {
 
         int[] nums={1,2,3};

@@ -6,7 +6,7 @@ package src.T_18_DP.Day_4;
 
 
 //DP_21
-public class DP21_TargetSum {
+public class DP_21_TargetSum {
     public static void main(String[] args) {
 
     }

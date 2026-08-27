@@ -2,7 +2,7 @@ package src.T_18_DP.Day_1to3;
 
 import java.util.Arrays;
 
-public class FrogJump_3 {
+public class T3_FrogJump_3 {
     public static void main(String[] args) {
         int[] heights = {7, 5, 1,3,6,8,5,9};
         System.out.println(frogJump(heights));

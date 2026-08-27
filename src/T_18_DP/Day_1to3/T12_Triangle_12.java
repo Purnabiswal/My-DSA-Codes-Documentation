@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Triangle_12 {
+public class T12_Triangle_12 {
     public static void main(String[] args) {
 
         List<List<Integer>> triangle = new ArrayList<>();
