@@ -55,7 +55,7 @@ public class DP_27_LCSubstring {
 
 
     //wrong output
-    //Reason: 💥 The fatal issue
+    //Reason: The fatal issue
     //prev = cur;
     //
     //

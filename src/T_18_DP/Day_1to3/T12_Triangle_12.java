@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+//https://leetcode.com/problems/triangle/description/
 public class T12_Triangle_12 {
     public static void main(String[] args) {
 

@@ -2,6 +2,7 @@ package src.T_18_DP.Day_4;
 
 import java.util.Arrays;
 
+//https://www.naukri.com/code360/problems/rod-cutting-problem_800284
 public class DP_24_RodCutting {
     public static void main(String[] args) {
 //        int[] price={2, 5, 7 ,8, 10};
